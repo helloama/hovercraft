@@ -1,6 +1,6 @@
 {
   "name": "hovercraft",
-  "start_url": "spaceship.glb",
+  "start_url": "PhettaverseCar.glb",
   "components": [
     {
       "key": "sit",
