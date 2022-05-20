@@ -1,6 +1,6 @@
 {
   "name": "Psilocybin Froggy",
-  "start_url": "frogweb.glb",
+  "start_url": "https://github.com/helloama/hovercraft",
   "components": [
     {
       "key": "sit",
