@@ -1,16 +1,17 @@
 {
   "name": "Psilocybin Froggy",
+  "description": "Frog Car? Frog Mount? Frog Plane?",
   "start_url": "frogweb.glb",
   "components": [
     {
       "key": "sit",
       "value": {
         "subtype": "saddle",
-        "sitOffset": [0, 0, 0],
-        "walkAnimation": ["walk"],
+        "sitOffset": [0, 0.5, 0],
+        "walkAnimation": ["walk", "wing_2_low001|Take 001|BaseLayer", "Object001|Take 001|BaseLayer", "Object002|Take 001|BaseLayer", "Object003|Take 001|BaseLayer", "Object004|Take 001|BaseLayer"],
         "walkAnimationHoldTime": 1,
         "walkAnimationSpeedFactor": 0.1,
-        "speed": 0.2,
+        "speed": 0.02,
         "damping": 0.99
       }
     },
