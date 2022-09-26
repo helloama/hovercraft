@@ -1,7 +1,7 @@
 {
-  "name": "Psilocybin Froggy",
-  "description": "Frog Car? Frog Mount? Frog Plane?",
-  "start_url": "frogweb.glb",
+  "name": "Phetta Glider",
+  "description": "Phetta Glider",
+  "start_url": "phettaglider.glb",
   "components": [
     {
       "key": "sit",
